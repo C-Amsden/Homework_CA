@@ -1,0 +1,3 @@
+probablity of winning if you switch:  69.6 %
+probablity of winning if you stay:  37.2 %
+the probablity of improving by switching(about):  32.4 %
